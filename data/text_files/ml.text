@@ -1,0 +1,57 @@
+ 
+    Machine Learning Fundamentals
+
+Machine Learning is a branch of Artificial Intelligence that enables computers to learn from data without being explicitly programmed.
+
+Main Types of Machine Learning:
+
+1. Supervised Learning
+   - Uses labeled data
+   - Examples:
+     - Linear Regression
+     - Logistic Regression
+     - Decision Trees
+     - Random Forest
+
+2. Unsupervised Learning
+   - Uses unlabeled data
+   - Examples:
+     - K-Means Clustering
+     - Hierarchical Clustering
+     - PCA
+
+3. Reinforcement Learning
+   - Learns through rewards and penalties
+
+Typical Machine Learning Workflow:
+
+1. Collect Data
+2. Clean Data
+3. Feature Engineering
+4. Split Data into Train and Test Sets
+5. Train Model
+6. Evaluate Model
+7. Deploy Model
+
+Common Evaluation Metrics:
+
+For Classification:
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+
+For Regression:
+- MAE
+- MSE
+- RMSE
+- R-Squared
+
+Popular Machine Learning Libraries:
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- XGBoost
+
+The quality of data often has a greater impact on model performance than the choice of algorithm.
+    

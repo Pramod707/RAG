@@ -1,0 +1,47 @@
+Python Programming Guide
+
+Python is a high-level, interpreted programming language known for its simplicity and readability.
+
+Key Features:
+- Easy to learn and use
+- Dynamically typed
+- Large standard library
+- Supports object-oriented programming
+- Cross-platform compatibility
+
+Common Data Types:
+1. int - Integer values
+2. float - Decimal values
+3. str - Text data
+4. list - Ordered collection
+5. tuple - Immutable collection
+6. dict - Key-value pairs
+7. set - Unique elements
+
+Example:
+
+name = "Pramod"
+age = 22
+
+print(name)
+print(age)
+
+Functions in Python are defined using the def keyword.
+
+Example:
+
+def greet(name):
+    return f"Hello, {name}"
+
+Python uses indentation instead of curly braces to define code blocks.
+
+Popular Python Libraries:
+- Pandas for data analysis
+- NumPy for numerical computing
+- Matplotlib for visualization
+- Scikit-learn for machine learning
+- FastAPI for API development
+
+Python is widely used in web development, automation, data analytics, artificial intelligence, and machine learning.
+
+    
